@@ -1,0 +1,404 @@
+{
+  "teaCatalogue": [
+    {
+      "name": "Гречишный чай, Ку Цяо Май \"AАА\", гречиха\n",
+      "price": "29\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/82/83/8382/images/32944/32944.750.jpg"
+    },
+    {
+      "name": "Маття \"АА\" (Токусен Матча)\n",
+      "price": "46\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/90/75/7590/images/27136/27136.750.jpg"
+    },
+    {
+      "name": "ГАБА Хэ Хуан Шань \"ААА\" (ГАБА с Горы Радости)\n",
+      "price": "42\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/04/44/4404/images/40650/40650.750.jpg"
+    },
+    {
+      "name": "Маття \"А\" (Матча)\n",
+      "price": "42\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/49/63/6349/images/21104/21104.750.jpg"
+    },
+    {
+      "name": "ГАБА Фермерская \"А\"\n",
+      "price": "44\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/24/87/8724/images/55242/55242.750.jpg"
+    },
+    {
+      "name": "Шу пуэр \"Большие деревья Бан Чжана\" (Бан Чжан Да Шу), ф-ка Гу Юнь Хао, 2016 г., 357 г.\n",
+      "price": "37\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/53/86/8653/images/34512/34512.750.jpg"
+    },
+    {
+      "name": "ГАБА Сы Цзи Чунь (Весна Четырёх Сезонов) \"АА\"\n",
+      "price": "49\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/34/82/8234/images/31471/31471.750.jpg"
+    },
+    {
+      "name": "Шу пуэр \"Гун Тин в кирпиче\" (Пуэр из Почечного Сырья), Юн Жень (Линцан), 250 г., 2023 г.\n",
+      "price": "15\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/70/66/6670/images/22771/22771.750.jpg"
+    },
+    {
+      "name": "Хэй Гуй Юань Сян \"AA\" (Аромат Лонгана)\n",
+      "price": "36\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/65/66/6665/images/31608/31608.750.jpg"
+    },
+    {
+      "name": "Чайный напиток \"Ягодный Пирог\"\n",
+      "price": "21\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/56/59/5956/images/42417/42417.750.jpg"
+    },
+    {
+      "name": "Те Гуань Инь Гуо Сян \"АА\" (Железная Богиня Милосердия с Фруктовым Ароматом), осень 2023г\n",
+      "price": "46\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/40/70/7040/images/50513/50513.750.jpg"
+    },
+    {
+      "name": "Е Шэн Мао Фэн \"А\" (Дикорастущие Ворсистые Пики), 2023 г.\n",
+      "price": "30\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/56/48/4856/images/29351/29351.750.jpg"
+    },
+    {
+      "name": "Моли Битань Пяо Сюэ \"АА\" (Кружащийся Жасминовый Снег)\n",
+      "price": "38\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/26/44/4426/images/29337/29337.750.jpg"
+    },
+    {
+      "name": "ГАБА Али Шань \"АА\" (ГАБА с Горы Али)\n",
+      "price": "127\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/67/49/4967/images/29966/29966.750.jpg"
+    },
+    {
+      "name": "Юньнань Гао Шань Е Шэн Хун Ча \"ААА\" (Дикорастущий Высокогорный Юннаньский Красный Чай)\n",
+      "price": "88\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/27/77/7727/images/28272/28272.750.jpg"
+    },
+    {
+      "name": "Маття \"АА\" (Токусен Матча), 100г.\n",
+      "price": "46\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/63/79/7963/images/29700/29700.750.jpg"
+    },
+    {
+      "name": "Чжэн Шань Сяо Чжун \"АА\" (Малый Вид с Настоящих Гор)\n",
+      "price": "36\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/46/55/5546/images/31576/31576.750.jpg"
+    },
+    {
+      "name": "Али Шань Цин Сян \"А\" (Улун с Горы Али со Свежим Ароматом)\n",
+      "price": "31\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/24/90/9024/images/36658/36658.750.jpg"
+    },
+    {
+      "name": "Най Сян Цзинь Сюань \"ААА\" (Молочный улун), Тайвань\n",
+      "price": "47\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/41/74/7441/images/26555/26555.750.jpg"
+    },
+    {
+      "name": "Шу пуэр \"Народный\", ф-ка Тан Ли Чунь, 2013 г.\n",
+      "price": "15\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/72/66/6672/images/27745/27745.750.jpg"
+    },
+    {
+      "name": "ГАБА \"888\" \"ААА\"\n",
+      "price": "196\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/07/87/8707/images/40809/40809.750@2x.jpg"
+    },
+    {
+      "name": "Шу пуэр \"9978\", ф-ка Хайвань, 357 г., 2021 г.\n",
+      "price": "24\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/71/59/5971/images/60525/60525.750@2x.jpg"
+    },
+    {
+      "name": "Дянь Хун Фэн Цин \"А\" (Юннаньский Красный Чай из Фэн Цина)\n",
+      "price": "26\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/60/49/4960/images/50038/50038.750@2x.jpg"
+    },
+    {
+      "name": "Эрл Грей (Классик) \"А\"\n",
+      "price": "18\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/68/44/4468/images/40359/40359.750@2x.jpg"
+    },
+    {
+      "name": "Шу пуэр \"Лу Е Чунь\" ( Гу Шу Ча Бин), 2016 г., 200 г.\n",
+      "price": "26\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/60/86/8660/images/34516/34516.750@2x.jpg"
+    },
+    {
+      "name": "Лун Цзин \"Народный\" \"А\" (Колодец Дракона), весна 2023г.\n",
+      "price": "30\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/26/52/5226/images/43039/43039.750@2x.jpg"
+    },
+    {
+      "name": "Масала Чай \"А\", Индия\n",
+      "price": "15\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/18/45/4518/images/61748/61748.750@2x.jpg"
+    },
+    {
+      "name": "Маття \"АА\" (Токусен Матча), 50г.\n",
+      "price": "23\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/62/79/7962/images/29698/29698.750@2x.jpg"
+    },
+    {
+      "name": "Шу пуэр \"Древесное вино\" (Му Е Чунь 001), Мэнку, 2022 г., 400 г.\n",
+      "price": "42\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/17/18/11817/images/54407/54407.750@2x.jpg"
+    },
+    {
+      "name": "Ци Лань \"АА\" (Чудесная Орхидея)\n",
+      "price": "48\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/24/43/4324/images/43069/43069.750@2x.jpg"
+    },
+    {
+      "name": "Маття Премиум\"ААА\" (Матча), 50г.\n",
+      "price": "34\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/61/79/7961/images/29696/29696.750@2x.jpg"
+    },
+    {
+      "name": "Голубая Маття (Синий чай в порошке, синяя матча)\n",
+      "price": "34\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/43/58/5843/images/18666/18666.750@2x.jpg"
+    },
+    {
+      "name": "Шу пуэр \"Вино с деревьев\" (Му Е Чунь Гун Тин), Мэнку, 2016 г., 400 г.\n",
+      "price": "58\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/01/75/7501/images/26495/26495.750@2x.jpg"
+    },
+    {
+      "name": "Най Сян Цзинь Сюань \"АА\" (Молочный улун), Тайвань\n",
+      "price": "32\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/64/93/9364/images/60188/60188.750@2x.jpg"
+    },
+    {
+      "name": "Молочный Улун \"А\"\n",
+      "price": "15\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/56/81/8156/images/60633/60633.750@2x.jpg"
+    },
+    {
+      "name": "Лу Гу Лао Ча Ван \"ААА\" (Владыка Старого Чая из Лу Гу), 2002 г.\n",
+      "price": "101\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/07/44/4407/images/40595/40595.750@2x.jpg"
+    },
+    {
+      "name": "Е Шэн Мао Цзянь \"А\" (Дикорастущие Ворсистые Лезвия), 2024 г.\n",
+      "price": "46\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/31/74/7431/images/26516/26516.750@2x.jpg"
+    },
+    {
+      "name": "Цзи Бянь Лао Ча Ван Хун Шуэй \"ААА\" (Владыка Старого Чая), Юньнаньский улун\n",
+      "price": "86\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/95/08/10895/images/49604/49604.750@2x.jpg"
+    },
+    {
+      "name": "Шу пуэр \"Золотой дракон\" (Цзинь Лун), Юн Чжень, 357г., 2018г.\n",
+      "price": "32\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/58/97/9758/images/41354/41354.750@2x.jpg"
+    },
+    {
+      "name": "Бай Цзянь Гу Шу \"АА\" (Белые Лезвия со Старых Деревьев), Юньнань, 2024г.\n",
+      "price": "65\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/02/62/6202/images/20001/20001.750@2x.jpg"
+    },
+    {
+      "name": "Ассам Хун Ча (TGFOP) \"В\" (Ассамский Красный Чай), Индия\n",
+      "price": "15\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/05/79/7905/images/29501/29501.750@2x.jpg"
+    },
+    {
+      "name": "Мэн Дин Хуан Я \"ААА\" из заповедника (Желтые Почки из Мэн Дина), 2024г.\n",
+      "price": "259\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/89/99/9989/images/43894/43894.750@2x.jpg"
+    },
+    {
+      "name": "Моли Хуа Ча \"А\" (Зеленый Чай с Цветами Жасмина)\n",
+      "price": "28\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/56/98/9856/images/42858/42858.750@2x.jpg"
+    },
+    {
+      "name": "Дун Фан Мэй Жень \"АА\" (Восточная Красавица)\n",
+      "price": "68\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/53/57/5753/images/35025/35025.750@2x.jpg"
+    },
+    {
+      "name": "Асамуши Сенча \"АА\"\n",
+      "price": "40\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/18/44/4418/images/41014/41014.750@2x.jpg"
+    },
+    {
+      "name": "Лао Мэй Чжань Хун Ча (Выдержанный красный чай), 2016 г.\n",
+      "price": "98\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/11/49/4911/images/56627/56627.750@2x.jpg"
+    },
+    {
+      "name": "Кокейча \"АА\"\n",
+      "price": "37\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/91/66/6691/images/22846/22846.750@2x.jpg"
+    },
+    {
+      "name": "Моли Чжень Чжу \"АА\" (Жасминовые Жемчужины)\n",
+      "price": "52\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/24/44/4424/images/29343/29343.750@2x.jpg"
+    },
+    {
+      "name": "Шифэн Лун Цзин \"ААА\", весна 2024 г.\n",
+      "price": "158\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/17/62/6217/images/42918/42918.750@2x.jpg"
+    },
+    {
+      "name": "Венчик для Матча \"А\", Часен, бамбук\n",
+      "price": "46\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/93/86/8693/images/34638/34638.750@2x.jpg"
+    },
+    {
+      "name": "Шэн пуэр \"Три Красных Знамени\" (Иу Сань Мянь Хун Ци), 250 г., 2002г.\n",
+      "price": "72\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/73/96/9673/images/40754/40754.750@2x.jpg"
+    },
+    {
+      "name": "Шу пуэр \"Красный кирпич Лао Тун Чжи\", рецепт 9988 , ф-ка Хайвань, 2021 г., 250 г.\n",
+      "price": "20\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/35/20/12035/images/55456/55456.750@2x.jpg"
+    },
+    {
+      "name": "Молочный улун (Най Сян Цзинь Сюань), 15 штук по 2,5г.\n",
+      "price": "12\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/44/57/5744/images/48956/48956.750@2x.jpg"
+    },
+    {
+      "name": "Мэн Дин Хуан Я \"ААА\" из заповедника (Желтые Почки из Мэн Дина), 2023г.\n",
+      "price": "246\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/01/62/6201/images/19997/19997.750@2x.jpg"
+    },
+    {
+      "name": "Маття Премиум \"ААА\" (Матча), 100г.\n",
+      "price": "68\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/41/10/11041/images/50231/50231.750@2x.jpg"
+    },
+    {
+      "name": "Железная Богиня Милосердия (Те Гуань Инь), 15 штук по 3г.\n",
+      "price": "10\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/55/43/4355/images/48997/48997.750@2x.jpg"
+    },
+    {
+      "name": "У Ню Цзао Лун Цзин \"ААА\", весна 2024 г.\n",
+      "price": "172\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/87/99/9987/images/58708/58708.750@2x.jpg"
+    },
+    {
+      "name": "Бай Сян Го Цзинь Сюань \"АА\" (Огненный Цветок с Ароматом Маракуйи)\n",
+      "price": "29\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/38/45/4538/images/31533/31533.750@2x.jpg"
+    },
+    {
+      "name": "Исин Хун Ча \"АА\" (Красный Чай из Исина)\n",
+      "price": "58\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/86/97/9786/images/41884/41884.750@2x.jpg"
+    },
+    {
+      "name": "Фукамуши Сенча \"АА\", мелкая фракция\n",
+      "price": "42\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/73/44/4473/images/41016/41016.750@2x.jpg"
+    },
+    {
+      "name": "Гуй Фэй (Вторая Жена Императора) \"АА\"\n",
+      "price": "84\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/58/66/6658/images/50520/50520.750@2x.jpg"
+    },
+    {
+      "name": "Шэн Пуэр \"Гу Шу Мао Ча Да Е\", 500-летние деревья, Таиланд, 2023 г.\n",
+      "price": "132\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/24/67/6724/images/66709/66709.750@2x.jpg"
+    },
+    {
+      "name": "Мэн Дин Гань Лу (Сладкая Роса из Мэн Дин), Сычуань, весна 2024 г.\n",
+      "price": "148\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/29/61/6129/images/42895/42895.750@2x.jpg"
+    },
+    {
+      "name": "Си Ху Лун Цзин \"АAА\" (Колодец Дракона с Западного Озера), весна 2023 г.\n",
+      "price": "97\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/55/65/6555/images/29318/29318.750@2x.jpg"
+    },
+    {
+      "name": "Шэн Пуэр \"Гу Шу Мао Ча\", 500-летние деревья, Таиланд, 2023 г.\n",
+      "price": "160\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/65/31/13165/images/62335/62335.750@2x.jpg"
+    },
+    {
+      "name": "Маття (Матча) Премиум \"ААА\"\n",
+      "price": "68\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/59/22/12259/images/57151/57151.750@2x.jpg"
+    },
+    {
+      "name": "Дун Дин Шань Лин Си Лонган Сян от Мастера Джека \"ААА\" (Чай с Морозного Пика у Ручья Хвойного Леса с Ароматом Лонгана)\n",
+      "price": "135\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/52/57/5752/images/41438/41438.750@2x.jpg"
+    },
+    {
+      "name": "Хуан Цзинь Гуй Лань Хуа Сян \"АА\" (Золотая Корица с Ароматом Орхидеи)\n",
+      "price": "36\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/52/73/7352/images/66587/66587.750@2x.jpg"
+    },
+    {
+      "name": "Шу Пуэр \"Красный Квадрат\" (Бан Чжан Цзинь Я), 357 г., 2015г.\n",
+      "price": "28\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/85/04/10485/images/53499/53499.750@2x.jpg"
+    },
+    {
+      "name": "Шэн пуэр \"Юн Мэй Чунь\" \"ААА\" (Облачная Сливовая Весна), 357г., 2007г.\n",
+      "price": "110\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/68/96/9668/images/40691/40691.750@2x.jpg"
+    },
+    {
+      "name": "Кабусе Сенча \"ААА\"\n",
+      "price": "69\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/12/48/4812/images/31675/31675.750@2x.jpg"
+    },
+    {
+      "name": "Генмайча с Сенча Данран \"АА\"\n",
+      "price": "32\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/11/48/4811/images/41018/41018.750@2x.jpg"
+    },
+    {
+      "name": "Си Ху Лун Цзин \"АА\" (Колодец Дракона), Чжэцзян, 2023 г.\n",
+      "price": "15,60\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/27/43/4327/images/56593/56593.750@2x.jpg"
+    },
+    {
+      "name": "Жень Шень Улун \"ААА\"\n",
+      "price": "34\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/48/47/4748/images/56616/56616.750@2x.jpg"
+    },
+    {
+      "name": "Маття Розовая \"Питахайя\" (Розовая Матча)\n",
+      "price": "27\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/95/09/10995/images/50036/50036.750@2x.jpg"
+    },
+    {
+      "name": "Мэй Хуа У Лун Цзин \"ААА\", весна 2024 г.\n",
+      "price": "182\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/99/67/6799/images/60209/60209.750@2x.jpg"
+    },
+    {
+      "name": "Шэн пуэр \"Цзы Я\" (Фиолетовая Почка), 2013г., 380 г.\n",
+      "price": "69\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/69/98/9869/images/42836/42836.750@2x.jpg"
+    },
+    {
+      "name": "Чай фруктовый \"Глинтвейн\"\n",
+      "price": "15\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/55/59/5955/images/42413/42413.750@2x.jpg"
+    },
+    {
+      "name": "Кукича \"АА\"\n",
+      "price": "31\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/92/66/6692/images/43047/43047.750@2x.jpg"
+    },
+    {
+      "name": "Шэн пуэр \"По Бин Гун Тин\" \"ААА\" (Гун Тин Треснувший Лёд), 357г., 2011г.\n",
+      "price": "75\nBr\n",
+      "img": "https://tea-mail.by/wa-data/public/shop/products/47/63/6347/images/21089/21089.750@2x.jpg"
+    }
+  ]
+}
