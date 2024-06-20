@@ -1,49 +1,49 @@
 {
   "sliderItems": [
     {
+      "id": "slider-item-1",
       "img": "https://tea-mail.by/wa-data/public/shop/promos/70/00/70/promo_652e9ddc77b25821246725.jpg?v=1697553884",
-      "href": "https://www.instagram.com/p/CygNZGvIv6N/?igshid=cW85ZHAyaHQzc3Bj",
-      "id": "slider-item-1"
+      "url": "https://www.instagram.com/p/CygNZGvIv6N/?igshid=cW85ZHAyaHQzc3Bj"
     },
     {
+      "id": "slider-item-2",
       "img": "https://tea-mail.by/wa-data/public/shop/promos/69/00/69/promo_6529392c1bbc3416951405.jpg?v=1697200427",
-      "href": "https://www.wildberries.ru/brands/310692121-chaynaya-pochta",
-      "id": "slider-item-2"
+      "url": "https://www.wildberries.ru/brands/310692121-chaynaya-pochta"
     },
     {
+      "id": "slider-item-3",
       "img": "https://tea-mail.by/wa-data/public/shop/promos/80/00/80/promo_65f5b83ea22c2314228616.jpg?v=1710602302",
-      "href": "https://tea-mail.by/chay-urozhaya-2024-goda/",
-      "id": "slider-item-3"
+      "url": "https://tea-mail.by/chay-urozhaya-2024-goda/"
     },
     {
+      "id": "slider-item-4",
       "img": "https://tea-mail.by/wa-data/public/shop/promos/59/00/59/promo_64e335f6ea91e430118046.jpg?v=1692612086",
-      "href": "https://tea-mail.by/podarki/podarochnye-sertifikaty/na-vash-vkus-/",
-      "id": "slider-item-4"
+      "url": "https://tea-mail.by/podarki/podarochnye-sertifikaty/na-vash-vkus-/"
     },
     {
+      "id": "slider-item-5",
       "img": "https://tea-mail.by/wa-data/public/shop/promos/70/00/70/promo_652e9ddc77b25821246725.jpg?v=1697553884",
-      "href": "https://www.instagram.com/p/CygNZGvIv6N/?igshid=cW85ZHAyaHQzc3Bj",
-      "id": "slider-item-5"
+      "url": "https://www.instagram.com/p/CygNZGvIv6N/?igshid=cW85ZHAyaHQzc3Bj"
     },
     {
+      "id": "slider-item-6",
       "img": "https://tea-mail.by/wa-data/public/shop/promos/69/00/69/promo_6529392c1bbc3416951405.jpg?v=1697200427",
-      "href": "https://www.wildberries.ru/brands/310692121-chaynaya-pochta",
-      "id": "slider-item-6"
+      "url": "https://www.wildberries.ru/brands/310692121-chaynaya-pochta"
     },
     {
+      "id": "slider-item-7",
       "img": "https://tea-mail.by/wa-data/public/shop/promos/80/00/80/promo_65f5b83ea22c2314228616.jpg?v=1710602302",
-      "href": "https://tea-mail.by/chay-urozhaya-2024-goda/",
-      "id": "slider-item-7"
+      "url": "https://tea-mail.by/chay-urozhaya-2024-goda/"
     },
     {
+      "id": "slider-item-8",
       "img": "https://tea-mail.by/wa-data/public/shop/promos/59/00/59/promo_64e335f6ea91e430118046.jpg?v=1692612086",
-      "href": "https://tea-mail.by/podarki/podarochnye-sertifikaty/na-vash-vkus-/",
-      "id": "slider-item-8"
+      "url": "https://tea-mail.by/podarki/podarochnye-sertifikaty/na-vash-vkus-/"
     },
     {
+      "id": "slider-item-9",
       "img": "https://tea-mail.by/wa-data/public/shop/promos/70/00/70/promo_652e9ddc77b25821246725.jpg?v=1697553884",
-      "href": "https://www.instagram.com/p/CygNZGvIv6N/?igshid=cW85ZHAyaHQzc3Bj",
-      "id": "slider-item-9"
+      "url": "https://www.instagram.com/p/CygNZGvIv6N/?igshid=cW85ZHAyaHQzc3Bj"
     }
   ]
 }
